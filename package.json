@@ -1,0 +1,21 @@
+{
+  "name": "07-final-result",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "load-bmfont": "1.4.0",
+    "three": "0.108.0",
+    "three-bmfont-text": "2.3.0",
+    "three-orbit-controls": "82.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
